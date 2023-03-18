@@ -1,1 +1,3 @@
-B-Plus-Tree 
+**B-Plus-Tree** is a C++ program that showcases the use of B+ trees for external memory searching and operations. B+ trees are a type of data structure that allow for efficient searching and retrieval of data stored on external storage devices such as hard drives and solid-state drives. The program provides a graphical user interface for creating and manipulating B+ trees, as well as for performing basic search and insertion operations.
+
+The program is designed to be scalable and efficient, with support for large datasets and a configurable page size to optimize performance based on the characteristics of the external storage device. It also provides features for managing the tree structure, such as splitting and merging nodes and handling overflow conditions, and includes basic file I/O operations for reading and writing data to disk.
